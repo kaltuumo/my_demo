@@ -45,7 +45,7 @@ flutter_icons:
   ios: true
   image_path: "assets/logo.png"
   adaptive_icon_background: "#ffffff"
-  adaptive_icon_foreground: "assets/log.png"
+  adaptive_icon_foreground: "assets/logo.png"
    # Make sure this is correctly indented under dev_dependencies
 
 flutter:
